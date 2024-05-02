@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Bot configuration files
+config.json
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables file
+.env
